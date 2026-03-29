@@ -1,4 +1,4 @@
-### "" Gestion de Usuarios - Aplicación Web
+###Gestion de Usuarios - Aplicación Web
 
 Aplicación web completa para gestión de usuarios con operaciones CRUD (Crear, Leer, Actualizar, Eliminar). Desarrollada con Node.js, Express, SQLite en el backend y HTML, CSS, JavaScript vanilla en el frontend.
 
